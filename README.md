@@ -1,6 +1,19 @@
+<div align="center">
+  
+ 
+  <img src="./readme-images/project-logo.png" />
+
+  <h2 align="center">Jack - Personal portfolio</h2>
+
+  This website is fully responsive personal portfolio, <br />Responsive for all devices.
+
+  <a href="https://syr-jack-portfolio-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
+
+</div>
 ## Demo
 
 ![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+<br/>
 ![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
