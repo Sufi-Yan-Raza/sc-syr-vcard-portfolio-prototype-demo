@@ -1,13 +1,13 @@
 <div align="center">
   
  
-  <img src="./readme-images/project-logo.png" />
+  <img src="./assets/logo.ico" />
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+  <h2 align="center">V-Card - Personal portfolio</h2>
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices.
 
-  <a href="https://syr-jack-portfolio-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://syr-vcard-portfolio-prototype-demo.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 ## Demo
