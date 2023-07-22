@@ -1,7 +1,7 @@
 <div align="center">
   
  
-  <img src="./assets/logo.ico" />
+  <img src="/assets/images/logo.ico" />
 
   <h2 align="center">V-Card - Personal portfolio</h2>
 
